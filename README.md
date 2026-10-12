@@ -17,6 +17,8 @@ Use a local server rather than opening the file directly, because the menu, what
 
 Go to Settings → Pages, choose "Deploy from a branch", pick `gh-pages` and `/ (root)`. All paths are relative.
 
+The one exception is the link-preview tags in the `<head>` (`og:url`, `og:image`, `twitter:image`, canonical): previews need absolute URLs, so they point at `https://alexwilder-dev.github.io/HollyDale/`. Update them if the site moves to its own domain. The preview card is `images/og-image.jpg` (1200×630).
+
 ## Editing
 
 | File | Contents |
