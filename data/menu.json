@@ -1,0 +1,30 @@
+{
+  "section": "Burgers",
+  "note": "Sample menu · dishes and prices to be confirmed",
+  "items": [
+    {
+      "name": "House burger",
+      "description": "Description to come.",
+      "price": null,
+      "placeholder": true
+    },
+    {
+      "name": "Cheeseburger",
+      "description": "Description to come.",
+      "price": null,
+      "placeholder": true
+    },
+    {
+      "name": "Chicken burger",
+      "description": "Description to come.",
+      "price": null,
+      "placeholder": true
+    },
+    {
+      "name": "Veggie burger",
+      "description": "Description to come.",
+      "price": null,
+      "placeholder": true
+    }
+  ]
+}
