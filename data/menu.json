@@ -1,30 +1,31 @@
 {
-  "section": "Burgers",
-  "note": "Sample menu · dishes and prices to be confirmed",
-  "items": [
+  "title": "THP Menu",
+  "note": "Sample menu from The Hollydale's own site. Dishes and prices change, so check the board.",
+  "sections": [
     {
-      "name": "House burger",
-      "description": "Description to come.",
-      "price": null,
-      "placeholder": true
+      "name": "Big",
+      "items": [
+        { "name": "Big Double Smash Cheeseburger", "description": "Two beef patties, pickled onions, Monterey Jack, lettuce, gherkins, THP burger sauce & fries", "price": 16, "star": true },
+        { "name": "Blue Cheese & Bacon Burger", "description": "Two beef patties, homemade blue cheese sauce, streaky bacon & fries", "price": 17 },
+        { "name": "Chicken Burger", "description": "Thai-style marinated chicken & fries", "price": 16 },
+        { "name": "Falafel Burger", "description": "Falafel patty, mixed pickles, lettuce, tahini, chilli sauce & fries", "price": 16, "tags": ["veg", "vegan option"] },
+        { "name": "Bavette Steak", "description": "Cured egg yolk, chimichurri & fries", "price": 19 },
+        { "name": "Freekeh Salad", "description": "Manchego, smoked almond brittle & market greens", "price": 15, "tags": ["veg"] },
+        { "name": "Chicken Caesar Salad", "description": "", "price": 13 }
+      ]
     },
     {
-      "name": "Cheeseburger",
-      "description": "Description to come.",
-      "price": null,
-      "placeholder": true
-    },
-    {
-      "name": "Chicken burger",
-      "description": "Description to come.",
-      "price": null,
-      "placeholder": true
-    },
-    {
-      "name": "Veggie burger",
-      "description": "Description to come.",
-      "price": null,
-      "placeholder": true
+      "name": "Small",
+      "items": [
+        { "name": "Buffalo Chicken Wings", "description": "With blue cheese", "price": 10 },
+        { "name": "Pulled Pork Croquettes", "description": "Red pepper jam", "price": 9 },
+        { "name": "Falafel Bites", "description": "", "price": 8 },
+        { "name": "Halloumi Sticks", "description": "Sriracha, pomegranate molasses, pickled chillies", "price": 7.5, "tags": ["veg"] },
+        { "name": "Truffle Fries", "description": "", "price": 7 },
+        { "name": "Grilled Padrón Peppers", "description": "", "price": 6, "tags": ["vegan"] },
+        { "name": "Battered Whitebait", "description": "Lemon aioli, parsley", "price": 6 },
+        { "name": "Fries", "description": "Crinkle-cut, house seasoning", "price": 5, "tags": ["vegan"] }
+      ]
     }
   ]
 }

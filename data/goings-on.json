@@ -1,0 +1,13 @@
+{
+  "note": "From the board and the pub's listings. Dates move, so check Instagram before you come.",
+  "items": [
+    { "title": "QuizDog Pub Quiz", "when": "Third Wednesday of the month · 7pm", "detail": "Book your team through QuizDog and pay on the night.", "colour": "yellow" },
+    { "title": "Sip & Paint Birds", "when": "Last Wednesday of the month", "detail": "Paint birds with Fran Giffard, the local artist whose birds hang on the walls. £10 plus a house drink.", "colour": "pink" },
+    { "title": "2-4-1 Cocktails", "when": "Every day · 5–7pm", "detail": "Two for one, every day the pub is open.", "colour": "orange", "chalk": true },
+    { "title": "Burger & a Bevy", "when": "Thursdays", "detail": "A burger and a drink, Thursdays.", "colour": "mint" },
+    { "title": "Holly Dice", "when": "The game of chance", "detail": "Roll a double 6 and the round's free. Double 3, it's half price.", "colour": "chalk", "chalk": true },
+    { "title": "The Kids' Table", "when": "Sundays · 1–5pm", "detail": "Little ones supervised for free with table-top fun. Ages 3+, free for customers.", "colour": "teal" },
+    { "title": "Big matches", "when": "On the screen", "detail": "The big games are shown in the bar, the 2026 World Cup final included.", "colour": "purple" },
+    { "title": "Nunhead Art Trail", "when": "September", "detail": "The pub hangs local work for the trail. In 2026 it showed paintings and prints by Fran Giffard and David Wightman.", "colour": "paper" }
+  ]
+}
